@@ -1,0 +1,7 @@
+[package]
+name = "libburrow"
+version = "0.1.0"
+authors = ["Josh Lindsey <joshua.s.lindsey@gmail.com>"]
+license = "GPL-3.0+"
+
+[dependencies]
